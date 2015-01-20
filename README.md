@@ -1,2 +1,2 @@
 # editor
-Leke med Sublime
+Leke med Sublime og bli en ekte ninja
